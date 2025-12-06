@@ -1,11 +1,16 @@
-## G'day, I'm Bardia 👋
+# G'day, I'm Bardia 🤙
+When I'm not helping build a high-speed railway, I can be found:
+- 🔧 Tinkering on personal projects with ambitions to one day finish them all.
+- 🤔 Asking "Why?" when something works - but usually when it breaks.
+- 📚 Reading books from crime, to business, thrillers, and self-development.
+- 🥊 Trying to dodge punches in boxing.
 
-When I'm not helping build a high-speed railway, I'm doing one of the following:
-- Tinkering on personal projects with ambitions to one day finish them all.
-- Asking "Why?" when something works - but usually when it breaks.
-- Reading books from crime, to business, thrillers, and self-development.
-- Trying to dodge punches in boxing.
-
+## About Me
+- 🧩 Systems thinking enthusiast
+- 🧠 Lifelong learner
+- ⚡ Electrical engineer
+- 🚀 Ex-founder
+- 🇦🇺 Aussie in London
 <!--
 **bardiaafzali/bardiaafzali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
