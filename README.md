@@ -6,7 +6,7 @@ When I'm not helping build a high-speed railway, I can be found:
 - 🥊 Trying to dodge punches in boxing.
 
 ## About Me
-- 🧩 Systems thinking enthusiast
+- 🧩 Systems thinker
 - 🧠 Lifelong learner
 - ⚡ Electrical engineer
 - 🚀 Ex-founder
